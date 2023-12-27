@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi there! I'm Ahnaf, a senior Computer Science student at CUNY Queens College, based in New York, originally from Bangladesh. I specialize in software development with a strong foundation in various programming languages and frameworks. My academic and project experience has equipped me with a robust set of skills to tackle complex problems with innovative solutions.
+Hi there! I'm Ahnaf, a Computer Science senior at CUNY Queens College, based in New York, originally from Bangladesh. I specialize in software development with a strong foundation in various programming languages and frameworks. My academic and project experience has equipped me with a robust set of skills to tackle complex problems with innovative solutions.
 
 ## 🛠 Skills
 
