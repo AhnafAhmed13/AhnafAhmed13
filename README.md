@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi there! I'm Ahnaf, a senior Computer Science student at CUNY Queens College in New York City, originally from Bangladesh. I've found my passion in web and software development with a strong foundation in various programming languages and frameworks. Through my academic path and engagement in various projects, I have gradually built a skill set to understand and solve complex problems, always striving to find innovative solutions.
+Hi there! I'm Ahnaf, an aspiring **Software Engineer** and **Web Developer**. I'm a Computer Science student at Queens College CUNY. I enjoy solving problems. I also enjoy designing and creating functional and responsive websites. I've done various projects both independently and with teams. I'm proficient in many programming languages such as Java, JavaScript, and other frameworks.
 
 ## 🛠 Skills
 
