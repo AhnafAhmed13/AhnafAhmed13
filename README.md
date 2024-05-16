@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi there! I'm Ahnaf, an aspiring **Software Engineer** and **Web Developer**. I'm a Computer Science student at Queens College CUNY. I enjoy solving problems. I also enjoy designing and creating functional and responsive websites. I've done various projects both independently and with teams. I'm proficient in many programming languages such as Java, JavaScript, and other frameworks.
+Hi there! I'm Ahnaf, an aspiring Software Engineer and Web Developer. I'm a Computer Science student at Queens College CUNY. My focus is designing and creating functional and responsive websites/web applications. I've done various projects both independently and with teams. I'm proficient in many programming languages such as Java, JavaScript, and some of its frameworks. I have experience with Front-End Web Development and Relational Databases. I'm interested in building platforms that leverage the power of AI.
 
 ## 🛠 Skills
 
