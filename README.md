@@ -4,9 +4,9 @@ Hi there! I'm Ahnaf, an aspiring Software Engineer and Web Developer. I'm a Comp
 
 ## 🛠 Skills
 
-- **Programming Languages:** Java, C++, SQL, HTML/CSS, JavaScript
-- **Tools:** GitHub, Azure Data Studio, SSMS, VS Code, Eclipse, Docker
-- **Areas of Expertise:** Software Engineering, Database Management, Front End Web Development
+- **Programming Languages:** Java, C++, HTML/CSS, JavaScript, Node.js, SQL
+- **Tools:** GitHub, VS Code, Eclipse, Azure Data Studio, SSMS, Docker
+- **Areas of Expertise:** Full Stack Web Development, Software Engineering, Database Management
 
 ## 🤝 Collaboration
 
